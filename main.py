@@ -1,3 +1,5 @@
+"""Requires smartctl
+Must be run with root privileges"""
 from pySMART import DeviceList
 
 if __name__ == '__main__':
