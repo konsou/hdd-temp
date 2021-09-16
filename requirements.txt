@@ -1,3 +1,1 @@
 pySMART==1.1.0
-smbus==1.1.post2
-Adafruit-PureIO==1.1.9
