@@ -1,7 +1,7 @@
 NOTE!
 
-emc2301_pkg subdirectory copied from https://github.com/mamin27/ecomet_i2c_raspberry_tools
-This license *DOES NOT APPLY* to emc2301_pkg subdirectory. It has its own LICENSE.
+i2c_pkg subdirectory copied from https://github.com/mamin27/ecomet_i2c_raspberry_tools
+This license *DOES NOT APPLY* to i2c_pkg subdirectory. It has its own LICENSE.
 
 MIT License
 
